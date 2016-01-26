@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: ytdxxt10
-baseurl: /StrayBirds
+baseurl: /terryBlogs
 markdown: redcarpet
 safe: false
 highlighter: pygments
